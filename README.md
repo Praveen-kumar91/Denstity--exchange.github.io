@@ -3,7 +3,7 @@
 
 
 ## Demo
-https://github.com/Namrata0407/Density-Exchange-Reactjs/assets/112812835/bbd28d37-72b7-4eac-a771-25bb44355589
+https://github.com/praveen-kumar91/Density-Exchange-Reactjs/assets/112812835/bbd28d37-72b7-4eac-a771-25bb44355589
 
 
 
@@ -28,7 +28,7 @@ Density Exchange Reactjs is a creative landing page showcasing a variety of anim
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone this repository: `git clone https://github.com/Namrata0407/Density-Exchange-Reactjs.git`
+1. Clone this repository: `git clone https://github.com/Praveen-kumar91/Density-Exchange-Reactjs.git`
 2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
@@ -44,4 +44,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ---
 
-Enjoy exploring the captivating animations and the creative design of Density Exchange Reactjs! For any questions or inquiries, please contact [namrataawasthi077@gmail.com](mailto:your-email@example.com).
+Enjoy exploring the captivating animations and the creative design of Density Exchange Reactjs! For any questions or inquiries, please contact [praveenkumar988455@gmail.com](mailto:your-email@example.com).
